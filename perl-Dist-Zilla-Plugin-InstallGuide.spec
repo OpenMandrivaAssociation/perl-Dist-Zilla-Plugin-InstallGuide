@@ -1,5 +1,5 @@
 %define upstream_name    Dist-Zilla-Plugin-InstallGuide
-%define upstream_version 1.100701
+%define upstream_version 1.101461
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
