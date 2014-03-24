@@ -1,9 +1,9 @@
 %define upstream_name    Dist-Zilla-Plugin-InstallGuide
-%define upstream_version 1.101461
+%define upstream_version 1.200002
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	3
+Release:	1
 
 Summary:	Build an INSTALL file
 License:	GPL+ or Artistic
@@ -47,4 +47,5 @@ perl Makefile.PL INSTALLDIRS=vendor
 %doc Changes LICENSE META.yml META.json README
 %{_mandir}/man3/*
 %{perl_vendorlib}/*
+
 
