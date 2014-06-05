@@ -1,4 +1,5 @@
 removed_sources:
   Dist-Zilla-Plugin-InstallGuide-1.101461.tar.gz: dc99e0b64034c2af77409e1d5ec34c0b6aa14d02
-sources:
   Dist-Zilla-Plugin-InstallGuide-1.200002.tar.gz: f23a61a2127642559cbf3fee0771597615a7d371
+sources:
+  Dist-Zilla-Plugin-InstallGuide-1.200003.tar.gz: 6dbbb93199d0273dd8085502339150a4dfe9685a
